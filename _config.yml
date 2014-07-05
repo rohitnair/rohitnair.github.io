@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments 
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Rohit Nair
+tagline:          "Rohit Nair's blog"
+url:              http://rohitnair.github.io
+baseurl:          /
+
+author:
+  name:           'Rohit Nair'
+  url:            https://twitter.com/rohitnair
+
+paginate:         5
